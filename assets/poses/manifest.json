@@ -1,0 +1,1446 @@
+{
+  "categories": {
+    "standing": [
+      "Standing",
+      "Balanced, everyday standing poses ideal for portraits and lookbooks."
+    ],
+    "sitting": [
+      "Sitting",
+      "Seated poses for chairs, steps, ledges and the floor."
+    ],
+    "leaning": [
+      "Leaning",
+      "Relaxed poses leaning against a wall, doorway or railing."
+    ],
+    "walking": [
+      "Walking",
+      "Mid-stride candid walking poses for natural movement."
+    ],
+    "full_body": [
+      "Full Body",
+      "Dynamic full-figure poses showing the whole body."
+    ],
+    "portrait": [
+      "Portrait",
+      "Head-and-shoulders framing for close-up portraits."
+    ],
+    "hand_poses": [
+      "Hand Poses",
+      "Hand and gesture references for detail shots."
+    ],
+    "couple_poses": [
+      "Couple Poses",
+      "Two-person poses for couples and duo shoots."
+    ],
+    "outdoor": [
+      "Outdoor Poses",
+      "Open-air poses suited to parks, streets and nature."
+    ],
+    "creative": [
+      "Creative Poses",
+      "Expressive, editorial and artistic pose ideas."
+    ]
+  },
+  "poses": [
+    {
+      "id": "builtin_standing_01",
+      "title": "Standing 1",
+      "category": "standing",
+      "assetPath": "assets/poses/standing/standing_01.svg",
+      "thumbnailPath": "assets/poses/standing/standing_01.svg",
+      "tags": [
+        "standing",
+        "casual",
+        "portrait"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_standing_02",
+      "title": "Standing 2",
+      "category": "standing",
+      "assetPath": "assets/poses/standing/standing_02.svg",
+      "thumbnailPath": "assets/poses/standing/standing_02.svg",
+      "tags": [
+        "standing",
+        "casual",
+        "portrait"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_standing_03",
+      "title": "Standing 3",
+      "category": "standing",
+      "assetPath": "assets/poses/standing/standing_03.svg",
+      "thumbnailPath": "assets/poses/standing/standing_03.svg",
+      "tags": [
+        "standing",
+        "casual",
+        "portrait"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_standing_04",
+      "title": "Standing 4",
+      "category": "standing",
+      "assetPath": "assets/poses/standing/standing_04.svg",
+      "thumbnailPath": "assets/poses/standing/standing_04.svg",
+      "tags": [
+        "standing",
+        "casual",
+        "portrait"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_standing_05",
+      "title": "Standing 5",
+      "category": "standing",
+      "assetPath": "assets/poses/standing/standing_05.svg",
+      "thumbnailPath": "assets/poses/standing/standing_05.svg",
+      "tags": [
+        "standing",
+        "casual",
+        "portrait"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_standing_06",
+      "title": "Standing 6",
+      "category": "standing",
+      "assetPath": "assets/poses/standing/standing_06.svg",
+      "thumbnailPath": "assets/poses/standing/standing_06.svg",
+      "tags": [
+        "standing",
+        "casual",
+        "portrait"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_standing_07",
+      "title": "Standing 7",
+      "category": "standing",
+      "assetPath": "assets/poses/standing/standing_07.svg",
+      "thumbnailPath": "assets/poses/standing/standing_07.svg",
+      "tags": [
+        "standing",
+        "casual",
+        "portrait"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_standing_08",
+      "title": "Standing 8",
+      "category": "standing",
+      "assetPath": "assets/poses/standing/standing_08.svg",
+      "thumbnailPath": "assets/poses/standing/standing_08.svg",
+      "tags": [
+        "standing",
+        "casual",
+        "portrait"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_standing_09",
+      "title": "Standing 9",
+      "category": "standing",
+      "assetPath": "assets/poses/standing/standing_09.svg",
+      "thumbnailPath": "assets/poses/standing/standing_09.svg",
+      "tags": [
+        "standing",
+        "casual",
+        "portrait"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_standing_10",
+      "title": "Standing 10",
+      "category": "standing",
+      "assetPath": "assets/poses/standing/standing_10.svg",
+      "thumbnailPath": "assets/poses/standing/standing_10.svg",
+      "tags": [
+        "standing",
+        "casual",
+        "portrait"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_sitting_01",
+      "title": "Sitting 1",
+      "category": "sitting",
+      "assetPath": "assets/poses/sitting/sitting_01.svg",
+      "thumbnailPath": "assets/poses/sitting/sitting_01.svg",
+      "tags": [
+        "sitting",
+        "seated",
+        "relaxed"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_sitting_02",
+      "title": "Sitting 2",
+      "category": "sitting",
+      "assetPath": "assets/poses/sitting/sitting_02.svg",
+      "thumbnailPath": "assets/poses/sitting/sitting_02.svg",
+      "tags": [
+        "sitting",
+        "seated",
+        "relaxed"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_sitting_03",
+      "title": "Sitting 3",
+      "category": "sitting",
+      "assetPath": "assets/poses/sitting/sitting_03.svg",
+      "thumbnailPath": "assets/poses/sitting/sitting_03.svg",
+      "tags": [
+        "sitting",
+        "seated",
+        "relaxed"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_sitting_04",
+      "title": "Sitting 4",
+      "category": "sitting",
+      "assetPath": "assets/poses/sitting/sitting_04.svg",
+      "thumbnailPath": "assets/poses/sitting/sitting_04.svg",
+      "tags": [
+        "sitting",
+        "seated",
+        "relaxed"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_sitting_05",
+      "title": "Sitting 5",
+      "category": "sitting",
+      "assetPath": "assets/poses/sitting/sitting_05.svg",
+      "thumbnailPath": "assets/poses/sitting/sitting_05.svg",
+      "tags": [
+        "sitting",
+        "seated",
+        "relaxed"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_sitting_06",
+      "title": "Sitting 6",
+      "category": "sitting",
+      "assetPath": "assets/poses/sitting/sitting_06.svg",
+      "thumbnailPath": "assets/poses/sitting/sitting_06.svg",
+      "tags": [
+        "sitting",
+        "seated",
+        "relaxed"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_sitting_07",
+      "title": "Sitting 7",
+      "category": "sitting",
+      "assetPath": "assets/poses/sitting/sitting_07.svg",
+      "thumbnailPath": "assets/poses/sitting/sitting_07.svg",
+      "tags": [
+        "sitting",
+        "seated",
+        "relaxed"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_sitting_08",
+      "title": "Sitting 8",
+      "category": "sitting",
+      "assetPath": "assets/poses/sitting/sitting_08.svg",
+      "thumbnailPath": "assets/poses/sitting/sitting_08.svg",
+      "tags": [
+        "sitting",
+        "seated",
+        "relaxed"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_sitting_09",
+      "title": "Sitting 9",
+      "category": "sitting",
+      "assetPath": "assets/poses/sitting/sitting_09.svg",
+      "thumbnailPath": "assets/poses/sitting/sitting_09.svg",
+      "tags": [
+        "sitting",
+        "seated",
+        "relaxed"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_sitting_10",
+      "title": "Sitting 10",
+      "category": "sitting",
+      "assetPath": "assets/poses/sitting/sitting_10.svg",
+      "thumbnailPath": "assets/poses/sitting/sitting_10.svg",
+      "tags": [
+        "sitting",
+        "seated",
+        "relaxed"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_leaning_01",
+      "title": "Leaning 1",
+      "category": "leaning",
+      "assetPath": "assets/poses/leaning/leaning_01.svg",
+      "thumbnailPath": "assets/poses/leaning/leaning_01.svg",
+      "tags": [
+        "leaning",
+        "wall",
+        "casual"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_leaning_02",
+      "title": "Leaning 2",
+      "category": "leaning",
+      "assetPath": "assets/poses/leaning/leaning_02.svg",
+      "thumbnailPath": "assets/poses/leaning/leaning_02.svg",
+      "tags": [
+        "leaning",
+        "wall",
+        "casual"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_leaning_03",
+      "title": "Leaning 3",
+      "category": "leaning",
+      "assetPath": "assets/poses/leaning/leaning_03.svg",
+      "thumbnailPath": "assets/poses/leaning/leaning_03.svg",
+      "tags": [
+        "leaning",
+        "wall",
+        "casual"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_leaning_04",
+      "title": "Leaning 4",
+      "category": "leaning",
+      "assetPath": "assets/poses/leaning/leaning_04.svg",
+      "thumbnailPath": "assets/poses/leaning/leaning_04.svg",
+      "tags": [
+        "leaning",
+        "wall",
+        "casual"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_leaning_05",
+      "title": "Leaning 5",
+      "category": "leaning",
+      "assetPath": "assets/poses/leaning/leaning_05.svg",
+      "thumbnailPath": "assets/poses/leaning/leaning_05.svg",
+      "tags": [
+        "leaning",
+        "wall",
+        "casual"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_leaning_06",
+      "title": "Leaning 6",
+      "category": "leaning",
+      "assetPath": "assets/poses/leaning/leaning_06.svg",
+      "thumbnailPath": "assets/poses/leaning/leaning_06.svg",
+      "tags": [
+        "leaning",
+        "wall",
+        "casual"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_leaning_07",
+      "title": "Leaning 7",
+      "category": "leaning",
+      "assetPath": "assets/poses/leaning/leaning_07.svg",
+      "thumbnailPath": "assets/poses/leaning/leaning_07.svg",
+      "tags": [
+        "leaning",
+        "wall",
+        "casual"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_leaning_08",
+      "title": "Leaning 8",
+      "category": "leaning",
+      "assetPath": "assets/poses/leaning/leaning_08.svg",
+      "thumbnailPath": "assets/poses/leaning/leaning_08.svg",
+      "tags": [
+        "leaning",
+        "wall",
+        "casual"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_leaning_09",
+      "title": "Leaning 9",
+      "category": "leaning",
+      "assetPath": "assets/poses/leaning/leaning_09.svg",
+      "thumbnailPath": "assets/poses/leaning/leaning_09.svg",
+      "tags": [
+        "leaning",
+        "wall",
+        "casual"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_leaning_10",
+      "title": "Leaning 10",
+      "category": "leaning",
+      "assetPath": "assets/poses/leaning/leaning_10.svg",
+      "thumbnailPath": "assets/poses/leaning/leaning_10.svg",
+      "tags": [
+        "leaning",
+        "wall",
+        "casual"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_walking_01",
+      "title": "Walking 1",
+      "category": "walking",
+      "assetPath": "assets/poses/walking/walking_01.svg",
+      "thumbnailPath": "assets/poses/walking/walking_01.svg",
+      "tags": [
+        "walking",
+        "candid",
+        "movement"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_walking_02",
+      "title": "Walking 2",
+      "category": "walking",
+      "assetPath": "assets/poses/walking/walking_02.svg",
+      "thumbnailPath": "assets/poses/walking/walking_02.svg",
+      "tags": [
+        "walking",
+        "candid",
+        "movement"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_walking_03",
+      "title": "Walking 3",
+      "category": "walking",
+      "assetPath": "assets/poses/walking/walking_03.svg",
+      "thumbnailPath": "assets/poses/walking/walking_03.svg",
+      "tags": [
+        "walking",
+        "candid",
+        "movement"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_walking_04",
+      "title": "Walking 4",
+      "category": "walking",
+      "assetPath": "assets/poses/walking/walking_04.svg",
+      "thumbnailPath": "assets/poses/walking/walking_04.svg",
+      "tags": [
+        "walking",
+        "candid",
+        "movement"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_walking_05",
+      "title": "Walking 5",
+      "category": "walking",
+      "assetPath": "assets/poses/walking/walking_05.svg",
+      "thumbnailPath": "assets/poses/walking/walking_05.svg",
+      "tags": [
+        "walking",
+        "candid",
+        "movement"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_walking_06",
+      "title": "Walking 6",
+      "category": "walking",
+      "assetPath": "assets/poses/walking/walking_06.svg",
+      "thumbnailPath": "assets/poses/walking/walking_06.svg",
+      "tags": [
+        "walking",
+        "candid",
+        "movement"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_walking_07",
+      "title": "Walking 7",
+      "category": "walking",
+      "assetPath": "assets/poses/walking/walking_07.svg",
+      "thumbnailPath": "assets/poses/walking/walking_07.svg",
+      "tags": [
+        "walking",
+        "candid",
+        "movement"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_walking_08",
+      "title": "Walking 8",
+      "category": "walking",
+      "assetPath": "assets/poses/walking/walking_08.svg",
+      "thumbnailPath": "assets/poses/walking/walking_08.svg",
+      "tags": [
+        "walking",
+        "candid",
+        "movement"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_walking_09",
+      "title": "Walking 9",
+      "category": "walking",
+      "assetPath": "assets/poses/walking/walking_09.svg",
+      "thumbnailPath": "assets/poses/walking/walking_09.svg",
+      "tags": [
+        "walking",
+        "candid",
+        "movement"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_walking_10",
+      "title": "Walking 10",
+      "category": "walking",
+      "assetPath": "assets/poses/walking/walking_10.svg",
+      "thumbnailPath": "assets/poses/walking/walking_10.svg",
+      "tags": [
+        "walking",
+        "candid",
+        "movement"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_full_body_01",
+      "title": "Full Body 1",
+      "category": "full_body",
+      "assetPath": "assets/poses/full_body/full_body_01.svg",
+      "thumbnailPath": "assets/poses/full_body/full_body_01.svg",
+      "tags": [
+        "full body",
+        "dynamic",
+        "action"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_full_body_02",
+      "title": "Full Body 2",
+      "category": "full_body",
+      "assetPath": "assets/poses/full_body/full_body_02.svg",
+      "thumbnailPath": "assets/poses/full_body/full_body_02.svg",
+      "tags": [
+        "full body",
+        "dynamic",
+        "action"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_full_body_03",
+      "title": "Full Body 3",
+      "category": "full_body",
+      "assetPath": "assets/poses/full_body/full_body_03.svg",
+      "thumbnailPath": "assets/poses/full_body/full_body_03.svg",
+      "tags": [
+        "full body",
+        "dynamic",
+        "action"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_full_body_04",
+      "title": "Full Body 4",
+      "category": "full_body",
+      "assetPath": "assets/poses/full_body/full_body_04.svg",
+      "thumbnailPath": "assets/poses/full_body/full_body_04.svg",
+      "tags": [
+        "full body",
+        "dynamic",
+        "action"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_full_body_05",
+      "title": "Full Body 5",
+      "category": "full_body",
+      "assetPath": "assets/poses/full_body/full_body_05.svg",
+      "thumbnailPath": "assets/poses/full_body/full_body_05.svg",
+      "tags": [
+        "full body",
+        "dynamic",
+        "action"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_full_body_06",
+      "title": "Full Body 6",
+      "category": "full_body",
+      "assetPath": "assets/poses/full_body/full_body_06.svg",
+      "thumbnailPath": "assets/poses/full_body/full_body_06.svg",
+      "tags": [
+        "full body",
+        "dynamic",
+        "action"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_full_body_07",
+      "title": "Full Body 7",
+      "category": "full_body",
+      "assetPath": "assets/poses/full_body/full_body_07.svg",
+      "thumbnailPath": "assets/poses/full_body/full_body_07.svg",
+      "tags": [
+        "full body",
+        "dynamic",
+        "action"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_full_body_08",
+      "title": "Full Body 8",
+      "category": "full_body",
+      "assetPath": "assets/poses/full_body/full_body_08.svg",
+      "thumbnailPath": "assets/poses/full_body/full_body_08.svg",
+      "tags": [
+        "full body",
+        "dynamic",
+        "action"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_full_body_09",
+      "title": "Full Body 9",
+      "category": "full_body",
+      "assetPath": "assets/poses/full_body/full_body_09.svg",
+      "thumbnailPath": "assets/poses/full_body/full_body_09.svg",
+      "tags": [
+        "full body",
+        "dynamic",
+        "action"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_full_body_10",
+      "title": "Full Body 10",
+      "category": "full_body",
+      "assetPath": "assets/poses/full_body/full_body_10.svg",
+      "thumbnailPath": "assets/poses/full_body/full_body_10.svg",
+      "tags": [
+        "full body",
+        "dynamic",
+        "action"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_portrait_01",
+      "title": "Portrait 1",
+      "category": "portrait",
+      "assetPath": "assets/poses/portrait/portrait_01.svg",
+      "thumbnailPath": "assets/poses/portrait/portrait_01.svg",
+      "tags": [
+        "portrait",
+        "headshot",
+        "close-up"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_portrait_02",
+      "title": "Portrait 2",
+      "category": "portrait",
+      "assetPath": "assets/poses/portrait/portrait_02.svg",
+      "thumbnailPath": "assets/poses/portrait/portrait_02.svg",
+      "tags": [
+        "portrait",
+        "headshot",
+        "close-up"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_portrait_03",
+      "title": "Portrait 3",
+      "category": "portrait",
+      "assetPath": "assets/poses/portrait/portrait_03.svg",
+      "thumbnailPath": "assets/poses/portrait/portrait_03.svg",
+      "tags": [
+        "portrait",
+        "headshot",
+        "close-up"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_portrait_04",
+      "title": "Portrait 4",
+      "category": "portrait",
+      "assetPath": "assets/poses/portrait/portrait_04.svg",
+      "thumbnailPath": "assets/poses/portrait/portrait_04.svg",
+      "tags": [
+        "portrait",
+        "headshot",
+        "close-up"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_portrait_05",
+      "title": "Portrait 5",
+      "category": "portrait",
+      "assetPath": "assets/poses/portrait/portrait_05.svg",
+      "thumbnailPath": "assets/poses/portrait/portrait_05.svg",
+      "tags": [
+        "portrait",
+        "headshot",
+        "close-up"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_portrait_06",
+      "title": "Portrait 6",
+      "category": "portrait",
+      "assetPath": "assets/poses/portrait/portrait_06.svg",
+      "thumbnailPath": "assets/poses/portrait/portrait_06.svg",
+      "tags": [
+        "portrait",
+        "headshot",
+        "close-up"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_portrait_07",
+      "title": "Portrait 7",
+      "category": "portrait",
+      "assetPath": "assets/poses/portrait/portrait_07.svg",
+      "thumbnailPath": "assets/poses/portrait/portrait_07.svg",
+      "tags": [
+        "portrait",
+        "headshot",
+        "close-up"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_portrait_08",
+      "title": "Portrait 8",
+      "category": "portrait",
+      "assetPath": "assets/poses/portrait/portrait_08.svg",
+      "thumbnailPath": "assets/poses/portrait/portrait_08.svg",
+      "tags": [
+        "portrait",
+        "headshot",
+        "close-up"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_portrait_09",
+      "title": "Portrait 9",
+      "category": "portrait",
+      "assetPath": "assets/poses/portrait/portrait_09.svg",
+      "thumbnailPath": "assets/poses/portrait/portrait_09.svg",
+      "tags": [
+        "portrait",
+        "headshot",
+        "close-up"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_portrait_10",
+      "title": "Portrait 10",
+      "category": "portrait",
+      "assetPath": "assets/poses/portrait/portrait_10.svg",
+      "thumbnailPath": "assets/poses/portrait/portrait_10.svg",
+      "tags": [
+        "portrait",
+        "headshot",
+        "close-up"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_hand_poses_01",
+      "title": "Hand Poses 1",
+      "category": "hand_poses",
+      "assetPath": "assets/poses/hand_poses/hand_poses_01.svg",
+      "thumbnailPath": "assets/poses/hand_poses/hand_poses_01.svg",
+      "tags": [
+        "hands",
+        "gesture",
+        "detail"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_hand_poses_02",
+      "title": "Hand Poses 2",
+      "category": "hand_poses",
+      "assetPath": "assets/poses/hand_poses/hand_poses_02.svg",
+      "thumbnailPath": "assets/poses/hand_poses/hand_poses_02.svg",
+      "tags": [
+        "hands",
+        "gesture",
+        "detail"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_hand_poses_03",
+      "title": "Hand Poses 3",
+      "category": "hand_poses",
+      "assetPath": "assets/poses/hand_poses/hand_poses_03.svg",
+      "thumbnailPath": "assets/poses/hand_poses/hand_poses_03.svg",
+      "tags": [
+        "hands",
+        "gesture",
+        "detail"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_hand_poses_04",
+      "title": "Hand Poses 4",
+      "category": "hand_poses",
+      "assetPath": "assets/poses/hand_poses/hand_poses_04.svg",
+      "thumbnailPath": "assets/poses/hand_poses/hand_poses_04.svg",
+      "tags": [
+        "hands",
+        "gesture",
+        "detail"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_hand_poses_05",
+      "title": "Hand Poses 5",
+      "category": "hand_poses",
+      "assetPath": "assets/poses/hand_poses/hand_poses_05.svg",
+      "thumbnailPath": "assets/poses/hand_poses/hand_poses_05.svg",
+      "tags": [
+        "hands",
+        "gesture",
+        "detail"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_hand_poses_06",
+      "title": "Hand Poses 6",
+      "category": "hand_poses",
+      "assetPath": "assets/poses/hand_poses/hand_poses_06.svg",
+      "thumbnailPath": "assets/poses/hand_poses/hand_poses_06.svg",
+      "tags": [
+        "hands",
+        "gesture",
+        "detail"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_hand_poses_07",
+      "title": "Hand Poses 7",
+      "category": "hand_poses",
+      "assetPath": "assets/poses/hand_poses/hand_poses_07.svg",
+      "thumbnailPath": "assets/poses/hand_poses/hand_poses_07.svg",
+      "tags": [
+        "hands",
+        "gesture",
+        "detail"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_hand_poses_08",
+      "title": "Hand Poses 8",
+      "category": "hand_poses",
+      "assetPath": "assets/poses/hand_poses/hand_poses_08.svg",
+      "thumbnailPath": "assets/poses/hand_poses/hand_poses_08.svg",
+      "tags": [
+        "hands",
+        "gesture",
+        "detail"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_hand_poses_09",
+      "title": "Hand Poses 9",
+      "category": "hand_poses",
+      "assetPath": "assets/poses/hand_poses/hand_poses_09.svg",
+      "thumbnailPath": "assets/poses/hand_poses/hand_poses_09.svg",
+      "tags": [
+        "hands",
+        "gesture",
+        "detail"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_hand_poses_10",
+      "title": "Hand Poses 10",
+      "category": "hand_poses",
+      "assetPath": "assets/poses/hand_poses/hand_poses_10.svg",
+      "thumbnailPath": "assets/poses/hand_poses/hand_poses_10.svg",
+      "tags": [
+        "hands",
+        "gesture",
+        "detail"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_couple_poses_01",
+      "title": "Couple Poses 1",
+      "category": "couple_poses",
+      "assetPath": "assets/poses/couple_poses/couple_poses_01.svg",
+      "thumbnailPath": "assets/poses/couple_poses/couple_poses_01.svg",
+      "tags": [
+        "couple",
+        "duo",
+        "together"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_couple_poses_02",
+      "title": "Couple Poses 2",
+      "category": "couple_poses",
+      "assetPath": "assets/poses/couple_poses/couple_poses_02.svg",
+      "thumbnailPath": "assets/poses/couple_poses/couple_poses_02.svg",
+      "tags": [
+        "couple",
+        "duo",
+        "together"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_couple_poses_03",
+      "title": "Couple Poses 3",
+      "category": "couple_poses",
+      "assetPath": "assets/poses/couple_poses/couple_poses_03.svg",
+      "thumbnailPath": "assets/poses/couple_poses/couple_poses_03.svg",
+      "tags": [
+        "couple",
+        "duo",
+        "together"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_couple_poses_04",
+      "title": "Couple Poses 4",
+      "category": "couple_poses",
+      "assetPath": "assets/poses/couple_poses/couple_poses_04.svg",
+      "thumbnailPath": "assets/poses/couple_poses/couple_poses_04.svg",
+      "tags": [
+        "couple",
+        "duo",
+        "together"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_couple_poses_05",
+      "title": "Couple Poses 5",
+      "category": "couple_poses",
+      "assetPath": "assets/poses/couple_poses/couple_poses_05.svg",
+      "thumbnailPath": "assets/poses/couple_poses/couple_poses_05.svg",
+      "tags": [
+        "couple",
+        "duo",
+        "together"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_couple_poses_06",
+      "title": "Couple Poses 6",
+      "category": "couple_poses",
+      "assetPath": "assets/poses/couple_poses/couple_poses_06.svg",
+      "thumbnailPath": "assets/poses/couple_poses/couple_poses_06.svg",
+      "tags": [
+        "couple",
+        "duo",
+        "together"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_couple_poses_07",
+      "title": "Couple Poses 7",
+      "category": "couple_poses",
+      "assetPath": "assets/poses/couple_poses/couple_poses_07.svg",
+      "thumbnailPath": "assets/poses/couple_poses/couple_poses_07.svg",
+      "tags": [
+        "couple",
+        "duo",
+        "together"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_couple_poses_08",
+      "title": "Couple Poses 8",
+      "category": "couple_poses",
+      "assetPath": "assets/poses/couple_poses/couple_poses_08.svg",
+      "thumbnailPath": "assets/poses/couple_poses/couple_poses_08.svg",
+      "tags": [
+        "couple",
+        "duo",
+        "together"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_couple_poses_09",
+      "title": "Couple Poses 9",
+      "category": "couple_poses",
+      "assetPath": "assets/poses/couple_poses/couple_poses_09.svg",
+      "thumbnailPath": "assets/poses/couple_poses/couple_poses_09.svg",
+      "tags": [
+        "couple",
+        "duo",
+        "together"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_couple_poses_10",
+      "title": "Couple Poses 10",
+      "category": "couple_poses",
+      "assetPath": "assets/poses/couple_poses/couple_poses_10.svg",
+      "thumbnailPath": "assets/poses/couple_poses/couple_poses_10.svg",
+      "tags": [
+        "couple",
+        "duo",
+        "together"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_outdoor_01",
+      "title": "Outdoor Poses 1",
+      "category": "outdoor",
+      "assetPath": "assets/poses/outdoor/outdoor_01.svg",
+      "thumbnailPath": "assets/poses/outdoor/outdoor_01.svg",
+      "tags": [
+        "outdoor",
+        "nature",
+        "travel"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_outdoor_02",
+      "title": "Outdoor Poses 2",
+      "category": "outdoor",
+      "assetPath": "assets/poses/outdoor/outdoor_02.svg",
+      "thumbnailPath": "assets/poses/outdoor/outdoor_02.svg",
+      "tags": [
+        "outdoor",
+        "nature",
+        "travel"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_outdoor_03",
+      "title": "Outdoor Poses 3",
+      "category": "outdoor",
+      "assetPath": "assets/poses/outdoor/outdoor_03.svg",
+      "thumbnailPath": "assets/poses/outdoor/outdoor_03.svg",
+      "tags": [
+        "outdoor",
+        "nature",
+        "travel"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_outdoor_04",
+      "title": "Outdoor Poses 4",
+      "category": "outdoor",
+      "assetPath": "assets/poses/outdoor/outdoor_04.svg",
+      "thumbnailPath": "assets/poses/outdoor/outdoor_04.svg",
+      "tags": [
+        "outdoor",
+        "nature",
+        "travel"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_outdoor_05",
+      "title": "Outdoor Poses 5",
+      "category": "outdoor",
+      "assetPath": "assets/poses/outdoor/outdoor_05.svg",
+      "thumbnailPath": "assets/poses/outdoor/outdoor_05.svg",
+      "tags": [
+        "outdoor",
+        "nature",
+        "travel"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_outdoor_06",
+      "title": "Outdoor Poses 6",
+      "category": "outdoor",
+      "assetPath": "assets/poses/outdoor/outdoor_06.svg",
+      "thumbnailPath": "assets/poses/outdoor/outdoor_06.svg",
+      "tags": [
+        "outdoor",
+        "nature",
+        "travel"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_outdoor_07",
+      "title": "Outdoor Poses 7",
+      "category": "outdoor",
+      "assetPath": "assets/poses/outdoor/outdoor_07.svg",
+      "thumbnailPath": "assets/poses/outdoor/outdoor_07.svg",
+      "tags": [
+        "outdoor",
+        "nature",
+        "travel"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_outdoor_08",
+      "title": "Outdoor Poses 8",
+      "category": "outdoor",
+      "assetPath": "assets/poses/outdoor/outdoor_08.svg",
+      "thumbnailPath": "assets/poses/outdoor/outdoor_08.svg",
+      "tags": [
+        "outdoor",
+        "nature",
+        "travel"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_outdoor_09",
+      "title": "Outdoor Poses 9",
+      "category": "outdoor",
+      "assetPath": "assets/poses/outdoor/outdoor_09.svg",
+      "thumbnailPath": "assets/poses/outdoor/outdoor_09.svg",
+      "tags": [
+        "outdoor",
+        "nature",
+        "travel"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_outdoor_10",
+      "title": "Outdoor Poses 10",
+      "category": "outdoor",
+      "assetPath": "assets/poses/outdoor/outdoor_10.svg",
+      "thumbnailPath": "assets/poses/outdoor/outdoor_10.svg",
+      "tags": [
+        "outdoor",
+        "nature",
+        "travel"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_creative_01",
+      "title": "Creative Poses 1",
+      "category": "creative",
+      "assetPath": "assets/poses/creative/creative_01.svg",
+      "thumbnailPath": "assets/poses/creative/creative_01.svg",
+      "tags": [
+        "creative",
+        "editorial",
+        "artistic"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_creative_02",
+      "title": "Creative Poses 2",
+      "category": "creative",
+      "assetPath": "assets/poses/creative/creative_02.svg",
+      "thumbnailPath": "assets/poses/creative/creative_02.svg",
+      "tags": [
+        "creative",
+        "editorial",
+        "artistic"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_creative_03",
+      "title": "Creative Poses 3",
+      "category": "creative",
+      "assetPath": "assets/poses/creative/creative_03.svg",
+      "thumbnailPath": "assets/poses/creative/creative_03.svg",
+      "tags": [
+        "creative",
+        "editorial",
+        "artistic"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_creative_04",
+      "title": "Creative Poses 4",
+      "category": "creative",
+      "assetPath": "assets/poses/creative/creative_04.svg",
+      "thumbnailPath": "assets/poses/creative/creative_04.svg",
+      "tags": [
+        "creative",
+        "editorial",
+        "artistic"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_creative_05",
+      "title": "Creative Poses 5",
+      "category": "creative",
+      "assetPath": "assets/poses/creative/creative_05.svg",
+      "thumbnailPath": "assets/poses/creative/creative_05.svg",
+      "tags": [
+        "creative",
+        "editorial",
+        "artistic"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_creative_06",
+      "title": "Creative Poses 6",
+      "category": "creative",
+      "assetPath": "assets/poses/creative/creative_06.svg",
+      "thumbnailPath": "assets/poses/creative/creative_06.svg",
+      "tags": [
+        "creative",
+        "editorial",
+        "artistic"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_creative_07",
+      "title": "Creative Poses 7",
+      "category": "creative",
+      "assetPath": "assets/poses/creative/creative_07.svg",
+      "thumbnailPath": "assets/poses/creative/creative_07.svg",
+      "tags": [
+        "creative",
+        "editorial",
+        "artistic"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_creative_08",
+      "title": "Creative Poses 8",
+      "category": "creative",
+      "assetPath": "assets/poses/creative/creative_08.svg",
+      "thumbnailPath": "assets/poses/creative/creative_08.svg",
+      "tags": [
+        "creative",
+        "editorial",
+        "artistic"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_creative_09",
+      "title": "Creative Poses 9",
+      "category": "creative",
+      "assetPath": "assets/poses/creative/creative_09.svg",
+      "thumbnailPath": "assets/poses/creative/creative_09.svg",
+      "tags": [
+        "creative",
+        "editorial",
+        "artistic"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    },
+    {
+      "id": "builtin_creative_10",
+      "title": "Creative Poses 10",
+      "category": "creative",
+      "assetPath": "assets/poses/creative/creative_10.svg",
+      "thumbnailPath": "assets/poses/creative/creative_10.svg",
+      "tags": [
+        "creative",
+        "editorial",
+        "artistic"
+      ],
+      "source": "Original vector illustration created for Help me Pose",
+      "license": "CC0 (created in-house, no third-party assets used)"
+    }
+  ]
+}

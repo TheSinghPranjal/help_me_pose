@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900">
+<line x1="300" y1="820" x2="300" y2="620" stroke="#15151A" stroke-width="34" stroke-linecap="round"/>
+<circle cx="300" cy="500" r="58" fill="#15151A"/>
+<line x1="300" y1="500" x2="272.2136651816401" y2="471.226407986454" stroke="#15151A" stroke-width="15" stroke-linecap="round"/>
+<circle cx="272.2136651816401" cy="471.226407986454" r="8" fill="#15151A"/>
+<line x1="300" y1="500" x2="187.77533107717187" y2="463.53599466375624" stroke="#15151A" stroke-width="15" stroke-linecap="round"/>
+<circle cx="187.77533107717187" cy="463.53599466375624" r="8" fill="#15151A"/>
+<line x1="300" y1="500" x2="232.31798051057655" y2="596.6599412261011" stroke="#15151A" stroke-width="15" stroke-linecap="round"/>
+<circle cx="232.31798051057655" cy="596.6599412261011" r="8" fill="#15151A"/>
+<line x1="300" y1="500" x2="263.6269330410536" y2="521.0" stroke="#15151A" stroke-width="15" stroke-linecap="round"/>
+<circle cx="263.6269330410536" cy="521.0" r="8" fill="#15151A"/>
+<line x1="300" y1="500" x2="276.3816154043941" y2="524.4575532115141" stroke="#15151A" stroke-width="15" stroke-linecap="round"/>
+<circle cx="276.3816154043941" cy="524.4575532115141" r="8" fill="#15151A"/>
+</svg>

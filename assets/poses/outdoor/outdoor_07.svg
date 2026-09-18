@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900">
+<line x1="40" y1="860" x2="560" y2="860" stroke="#15151A" stroke-width="4" stroke-linecap="round" opacity="0.5"/>
+<circle cx="500" cy="140" r="34" fill="#15151A"/>
+<line x1="335.0" y1="560.0" x2="353.29248107183935" y2="734.0413316894478" stroke="#15151A" stroke-width="30" stroke-linecap="round"/>
+<line x1="353.29248107183935" y1="734.0413316894478" x2="383.68091216355214" y2="906.3826884665842" stroke="#15151A" stroke-width="26" stroke-linecap="round"/>
+<line x1="265.0" y1="560.0" x2="246.70751892816065" y2="734.0413316894478" stroke="#15151A" stroke-width="30" stroke-linecap="round"/>
+<line x1="246.70751892816065" y1="734.0413316894478" x2="216.31908783644784" y2="906.3826884665842" stroke="#15151A" stroke-width="26" stroke-linecap="round"/>
+<line x1="347.5" y1="340.0" x2="418.2066370655193" y2="255.73511125691243" stroke="#15151A" stroke-width="22" stroke-linecap="round"/>
+<line x1="418.2066370655193" y1="255.73511125691243" x2="504.80917744396316" y2="305.73511125691243" stroke="#15151A" stroke-width="18" stroke-linecap="round"/>
+<line x1="252.5" y1="340.0" x2="181.79336293448065" y2="255.73511125691243" stroke="#15151A" stroke-width="22" stroke-linecap="round"/>
+<line x1="181.79336293448065" y1="255.73511125691243" x2="95.19082255603679" y2="305.73511125691243" stroke="#15151A" stroke-width="18" stroke-linecap="round"/>
+<line x1="335.0" y1="560.0" x2="265.0" y2="560.0" stroke="#15151A" stroke-width="46" stroke-linecap="round"/>
+<line x1="300.0" y1="340.0" x2="300" y2="560" stroke="#15151A" stroke-width="46" stroke-linecap="round"/>
+<line x1="347.5" y1="340.0" x2="252.5" y2="340.0" stroke="#15151A" stroke-width="41.4" stroke-linecap="round"/>
+<circle cx="504.80917744396316" cy="305.73511125691243" r="11" fill="#15151A"/>
+<circle cx="95.19082255603679" cy="305.73511125691243" r="11" fill="#15151A"/>
+<circle cx="383.68091216355214" cy="906.3826884665842" r="13" fill="#15151A"/>
+<circle cx="216.31908783644784" cy="906.3826884665842" r="13" fill="#15151A"/>
+<circle cx="300.0" cy="284.8" r="42" fill="#15151A"/>
+</svg>

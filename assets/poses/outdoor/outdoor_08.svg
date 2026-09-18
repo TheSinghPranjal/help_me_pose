@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900">
+<line x1="40" y1="860" x2="560" y2="860" stroke="#15151A" stroke-width="4" stroke-linecap="round" opacity="0.5"/>
+<circle cx="500" cy="140" r="34" fill="#15151A"/>
+<line x1="335.0" y1="560.0" x2="353.29248107183935" y2="734.0413316894478" stroke="#15151A" stroke-width="30" stroke-linecap="round"/>
+<line x1="353.29248107183935" y1="734.0413316894478" x2="371.5849621436787" y2="908.0826633788956" stroke="#15151A" stroke-width="26" stroke-linecap="round"/>
+<line x1="265.0" y1="560.0" x2="139.11553494073604" y2="681.5652148303245" stroke="#15151A" stroke-width="30" stroke-linecap="round"/>
+<line x1="139.11553494073604" y1="681.5652148303245" x2="260.68074977106056" y2="807.4496798895884" stroke="#15151A" stroke-width="26" stroke-linecap="round"/>
+<line x1="347.5" y1="340.0" x2="442.7627944162882" y2="395.0" stroke="#15151A" stroke-width="22" stroke-linecap="round"/>
+<line x1="442.7627944162882" y1="395.0" x2="476.9648087488551" y2="301.0307379214092" stroke="#15151A" stroke-width="18" stroke-linecap="round"/>
+<line x1="252.5" y1="340.0" x2="157.23720558371176" y2="395.0" stroke="#15151A" stroke-width="22" stroke-linecap="round"/>
+<line x1="157.23720558371176" y1="395.0" x2="123.03519125114487" y2="301.0307379214092" stroke="#15151A" stroke-width="18" stroke-linecap="round"/>
+<line x1="335.0" y1="560.0" x2="265.0" y2="560.0" stroke="#15151A" stroke-width="46" stroke-linecap="round"/>
+<line x1="300.0" y1="340.0" x2="300" y2="560" stroke="#15151A" stroke-width="46" stroke-linecap="round"/>
+<line x1="347.5" y1="340.0" x2="252.5" y2="340.0" stroke="#15151A" stroke-width="41.4" stroke-linecap="round"/>
+<circle cx="476.9648087488551" cy="301.0307379214092" r="11" fill="#15151A"/>
+<circle cx="123.03519125114487" cy="301.0307379214092" r="11" fill="#15151A"/>
+<circle cx="371.5849621436787" cy="908.0826633788956" r="13" fill="#15151A"/>
+<circle cx="260.68074977106056" cy="807.4496798895884" r="13" fill="#15151A"/>
+<circle cx="300.0" cy="284.8" r="42" fill="#15151A"/>
+</svg>
