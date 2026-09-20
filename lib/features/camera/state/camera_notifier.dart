@@ -27,6 +27,7 @@ class CameraNotifier extends Notifier<CameraState> {
     return const CameraState();
   }
 
+
   Future<void> initialize() async {
     if (state.status == CameraStatus.initializing) return;
     state = state.copyWith(status: CameraStatus.initializing, clearError: true);
