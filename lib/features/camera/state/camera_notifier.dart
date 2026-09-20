@@ -56,6 +56,7 @@ class CameraNotifier extends Notifier<CameraState> {
     }
   }
 
+
   Future<void> _openCamera(List<CameraDescription> cameras, int index) async {
     await _service.open(cameras[index]);
     var minZoom = AppConstants.minCameraZoom;
